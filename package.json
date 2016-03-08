@@ -1,0 +1,23 @@
+{
+  "name": "testmuibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muibotdev/testmuibot.git"
+  },
+  "author": "Nathan Marks <info@nathanmarks.io> (http://nathanmarks.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muibotdev/testmuibot/issues"
+  },
+  "homepage": "https://github.com/muibotdev/testmuibot#readme",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  }
+}
