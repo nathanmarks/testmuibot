@@ -1,1 +1,3 @@
 # testmuibot
+
+Testing is fun!
